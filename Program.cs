@@ -21,7 +21,7 @@ namespace _9._1
 
             Console.ReadKey();
             */
-
+            // jwdfgsjdhfgsjhd
 
 
             int n;
